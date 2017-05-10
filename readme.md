@@ -1,8 +1,8 @@
-Short Lnk
+# Short Lnk
 
 This is a link shortening application built to learn Meteor and React.
 
-Authors
+## Authors
 
 Lorenzo Parenti
 
